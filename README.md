@@ -1,2 +1,5 @@
-# TMC4361
-TMC4361 Arduino Lib
+# TMC4361_Arduino
+
+Arduino library for TMC4361 "motion controller for stepper motor" IC
+
+Clone in sketchbook 'libraries' folder.
